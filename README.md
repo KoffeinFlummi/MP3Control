@@ -1,7 +1,7 @@
 MP3Control
 ==========
 
-An extension for Google Chrome changing the ridicilously stupid size of the mp3 streaming control.
+An extension for Google Chrome changing the ridiculously stupid size of the mp3 streaming control.
 
 **Before:**  
 ![Before](http://puu.sh/81qmf/ca43ae1620.png)
